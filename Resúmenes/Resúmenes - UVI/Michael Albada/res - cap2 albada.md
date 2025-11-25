@@ -177,7 +177,7 @@ El capítulo cierra enfatizando que el éxito no depende de un plan de 30 págin
 
 # Ampliación Técnica del Capítulo 2
 
-> *Añadí esto porque hay cosas del aspecto técnico que se dejaron de lado al hacer el resumen del capítulo, el cual está enfocado principalmente a comprender los temas desde un enfoque más conceptual. Dicho enfoque es al que se hace hincapié en los exámenes, además.*
+> *Añadí esto porque, al hacer el resumen del capítulo, se dejaron de lado algunos aspectos técnicos. El resumen se centra sobre todo en entender los temas desde una perspectiva más conceptual, que es la que se prioriza en los exámenes. Por eso, lo que sigue tiene un carácter meramente complementario.*
 
 ## 1. El Caso de Estudio: "Cancel Order" (Detalle del Flujo)
 *(Páginas 1-4 del PDF)*
