@@ -1,0 +1,5 @@
+*.pptx
+*.txt
+!requirements.txt
+soluciones_ejercicios.md
+*.ipynb_checkpoints
